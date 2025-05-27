@@ -18,9 +18,13 @@ I'm a passionate developer who loves working with modern technologies and buildi
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma2168&repo=readME&theme=github_dark" />
+<a href="https://github.com/AdityaSharma2168/betterdorm">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma2168&repo=betterdorm&theme=github_dark" />
 </a>
+<a href="https://github.com/AdityaSharma2168/RepoAI">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaSharma2168&repo=RepoAI&theme=github_dark" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma2168&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=github_dark" />
 </a>
