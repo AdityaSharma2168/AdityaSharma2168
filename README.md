@@ -1,6 +1,6 @@
 # Hey, I'm Aditya Sharma 👋
 
-I'm a passionate developer who loves working with modern technologies and building innovative solutions. My expertise lies in Java, JavaScript, and AI development.
+I'm a passionate developer who loves working with modern technologies and building innovative solutions. My expertise lies in Python, Java, JavaScript, and AI development.
 
 ## 🛠️ Languages & Technologies
 
